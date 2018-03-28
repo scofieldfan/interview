@@ -82,7 +82,7 @@
 
 ## Web 性能
 
-    怎么做？什么是渲染树?什么是 Dom 树？重绘和重排呢？
+怎么做？什么是渲染树?什么是 Dom 树？重绘和重排呢？
 
 ## 通信
 
@@ -90,7 +90,7 @@ Promise
 jsBridge
 NativeModules.RNMessageModule
 
-##优化
+## 优化
 
 ### 超级优化
 
@@ -102,7 +102,6 @@ http2
 ### 普通优化减少
 
 http 请求静态资源压缩
-
 CDN 加速减少全局变量
 script 标签放至 body 后
 
