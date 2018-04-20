@@ -30,6 +30,8 @@
 
 ### 输入一个字符串数组内容 例如：[‘apple’,'oranage','banana','apple']请编写一个函数对字符串的频率进行统计。结果为一个对象例如：{‘‘apple’：2，‘oranage’:1,'banana':1}
 
+###如何写出一个延时setTimeout 5s,延时到10s执行？
+
 # [框架部分]
 
 ### Vue 的生命周期是什么？
@@ -109,6 +111,10 @@ script 标签放至 body 后
 
 快排，二分查找。
 Date 的格式
+### 高级
+pajax
+serviceworkder
+
 
 # [开放性问题]
 
